@@ -58,16 +58,15 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloMarceloDev&radius=15&theme=chartreuse-dark&area=true&order=5&line=bbffb9&custom_title=Italo%20Marcelos%C2%B4s%20Contribution%20Graph&hide_border=false&area_color=bbffb9" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ItaloMarceloDev/ItaloMarceloDev/output/snake.svg" alt="Snake animation" />
-
-###
+</div><br><br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ItaloMarceloDev/count.svg?"  />
 </div>
 
+
+<img src="https://raw.githubusercontent.com/ItaloMarceloDev/ItaloMarceloDev/output/snake.svg" alt="Snake animation" />
+
 ###
+
+
