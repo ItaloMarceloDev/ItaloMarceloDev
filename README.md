@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
 </div><br>
 
-=================================================================================
+<p align=center >=================================================================================</p>
 
 <br clear="both">
 
@@ -55,10 +55,9 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloMarceloDev&radius=15&theme=chartreuse-dark&area=true&order=5&line=bbffb9&custom_title=Italo%20Marcelos%C2%B4s%20Contribution%20Graph&hide_border=false&area_color=bbffb9" height="300" alt="activity-graph graph"  />
-</div>
+</div><br>
 
-###
-=================================================================================
+<p align=center >=================================================================================</p>
 <h5 align="center">Profile View</h5>
 
 ###
