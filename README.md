@@ -58,3 +58,4 @@
 <img src="https://raw.githubusercontent.com/ItaloMarceloDev/ItaloMarceloDev/output/snake.svg" alt="Snake animation" />
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kjt5v6pny3km4iqwfjr5k7q&align=center&)
