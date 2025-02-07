@@ -1,9 +1,16 @@
+<br clear="both">
+
 <h1 align="left">Console.Write(  "Eai,Pessoal!" );</h1>
 
-<img align="right" height="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkzcndtc29nMjIzMzJnc2x4YzVqaTdsMWJnMGR2Z2tqanA3bHZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/107QsHzZW54hJC/giphy.gif"  />
+###
 
-<p align="left" margin-left=100px>Atualmente, estudo e desenvolvo projetos em <strong>C#, .NET e Python,</strong> além de explorar a área de <strong>Business Intelligence (BI).</strong><br>
-Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
+<br clear="both">
+
+<img align="right" height="340" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkzcndtc29nMjIzMzJnc2x4YzVqaTdsMWJnMGR2Z2tqanA3bHZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/107QsHzZW54hJC/giphy.gif"  />
+
+###
+
+<p align="left">Atualmente, estudo e desenvolvo projetos em C#, .NET e Python, além de explorar a área de Business Intelligence (BI). <br>Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
 
 ###
 
@@ -12,10 +19,10 @@ Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de soft
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
 </div>
 
 ###
@@ -25,17 +32,17 @@ Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de soft
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="25" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
 </div>
 
 ###
@@ -56,5 +63,11 @@ Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de soft
 ###
 
 <img src="https://raw.githubusercontent.com/ItaloMarceloDev/ItaloMarceloDev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ItaloMarceloDev/count.svg?"  />
+</div>
 
 ###
