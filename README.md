@@ -8,10 +8,10 @@
 
 <p align="left">Atualmente, estudo e desenvolvo projetos em C#, .NET e Python, além de explorar a área de Business Intelligence (BI). Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p><br>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img href="https://www.linkedin.com/in/italo-marcelo-7668b9175/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img href="https://www.facebook.com/profile.php?id=100011397930716&locale=pt_BR" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img href="https://www.instagram.com/whodat.italo/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 ###
 
