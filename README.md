@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Atualmente, estudo e desenvolvo projetos em C#, .NET e Python, além de explorar a área de Business Intelligence (BI). Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p><br>
+<p align="left" style="font-size: 14px; line-height: 1.4; max-width: 600px; margin: 0;">
+  Atualmente, estudo e desenvolvo projetos em <strong>C#, .NET e Python,</strong> além de explorar a área de <strong>Business Intelligence (BI).</strong> Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.
+</p>
 
 <p align="left">
   <a href="mailto:seuemail@gmail.com">
