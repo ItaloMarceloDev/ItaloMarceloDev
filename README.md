@@ -50,23 +50,28 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItaloMarceloDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloMarceloDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItaloMarceloDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1&custom_title=Italo%20Marcelo%C2%B4s%20GitHubs%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloMarceloDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloMarceloDev&radius=15&theme=chartreuse-dark&area=true&order=5&line=bbffb9&custom_title=Italo%20Marcelos%C2%B4s%20Contribution%20Graph&hide_border=false&area_color=bbffb9" height="300" alt="activity-graph graph"  />
-</div><br><br>
+</div>
+
+###
+
+<h5 align="center">Profile View</h5>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ItaloMarceloDev/count.svg?"  />
 </div>
 
+###
 
 <img src="https://raw.githubusercontent.com/ItaloMarceloDev/ItaloMarceloDev/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
