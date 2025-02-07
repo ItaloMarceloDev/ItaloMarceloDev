@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
 </div>
 
-###
+============================================================================================
 
 <br clear="both">
 
@@ -58,7 +58,7 @@
 </div>
 
 ###
-
+============================================================================================
 <h5 align="center">Profile View</h5>
 
 ###
