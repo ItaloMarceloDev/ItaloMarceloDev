@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left" margin-right=50px>Atualmente, estudo e desenvolvo projetos em <strong>C#, .NET e Python,</strong> além de explorar a área de <strong>Business Intelligence (BI).</strong> <br>Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
+<p align="left" margin-right=50px>Atualmente, estudo e desenvolvo projetos em <strong>C#, .NET e Python,</strong> além de explorar a área de <strong>Business Intelligence (BI).</strong> <br>Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end,
+pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
 
 ###
 
