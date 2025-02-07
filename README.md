@@ -1,6 +1,6 @@
 <h1 align="left">Console.Write(  "Eai,Pessoal!" );</h1>
 
-<img align="right" height="311" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkzcndtc29nMjIzMzJnc2x4YzVqaTdsMWJnMGR2Z2tqanA3bHZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/107QsHzZW54hJC/giphy.gif"  />
+<img align="right" height="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkzcndtc29nMjIzMzJnc2x4YzVqaTdsMWJnMGR2Z2tqanA3bHZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/107QsHzZW54hJC/giphy.gif"  />
 
 <p align="left" margin-left=100px>Atualmente, estudo e desenvolvo projetos em <strong>C#, .NET e Python,</strong> além de explorar a área de <strong>Business Intelligence (BI).</strong><br>
 Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
