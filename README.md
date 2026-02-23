@@ -7,7 +7,7 @@
 
 
 
-<p align="left">Atualmente, estudo e desenvolvo projetos em <strong>C# com ASP.NET</strong> além de explorar e ter uma base sólida na área de <strong>SQL Server e MySQL.</strong> <br>Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
+<p align="left">Atualmente, estudo e desenvolvo projetos em <strong>C# com ASP.NET,</strong> além de explorar e ter uma base sólida na área de <strong>SQL Server e MySQL.</strong> <br>Estou sempre em busca de aprimorar meus conhecimentos em desenvolvimento de software, análise de dados e tecnologias back-end, pois acredito que o aprendizado contínuo é a chave para novas oportunidades.</p>
 
 ###
 
